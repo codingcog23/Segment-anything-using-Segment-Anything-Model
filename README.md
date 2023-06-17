@@ -71,3 +71,11 @@ python scripts/export_onnx_model.py --checkpoint <path/to/checkpoint> --model-ty
 ![segment-anything-model-paper](https://github.com/codingcog23/Segment-anything-using-Segment-Anything-Model/assets/134972060/aa243627-e27e-47c9-88bb-9662c75a7a21)
 
 See the example notebook for details on how to combine image preprocessing via SAM's backbone with mask prediction using the ONNX model.
+
+## **👉**Contact 👉
+
+If you have any questions, feedback, or inquiries, please feel free to contact us at 
+            - Gmail: codingnerdscog23@gmail.com
+            - LinkedIn Page: https://www.linkedin.com/company/codingnerds-cog/
+            - Website: https://codinglerds.web.app/
+
