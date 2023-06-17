@@ -74,8 +74,8 @@ See the example notebook for details on how to combine image preprocessing via S
 
 ## **👉**Contact 👉
 
-If you have any questions, feedback, or inquiries, please feel free to contact us at 
-            - Gmail: codingnerdscog23@gmail.com
-            - LinkedIn Page: https://www.linkedin.com/company/codingnerds-cog/
-            - Website: https://codinglerds.web.app/
+If you have any questions, feedback, or inquiries, please feel free to contact us at    
+            - Gmail: codingnerdscog23@gmail.com   
+            - LinkedIn Page: https://www.linkedin.com/company/codingnerds-cog/   
+            - Website: https://codinglerds.web.app/   
 
