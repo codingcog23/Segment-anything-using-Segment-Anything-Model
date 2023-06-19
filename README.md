@@ -5,6 +5,18 @@
 
 The Segment Anything Model (SAM) produces high-quality object masks from input prompts such as points or boxes, enabling the generation of masks for all objects in an image. Trained on a dataset of 11 million images and 1.1 billion masks, SAM exhibits strong zero-shot performance on a variety of segmentation tasks.
 
+## SAM: Segment Anything Model
+
+SAM (Segment Anything Model) is an advanced computer vision model designed for promptable segmentation. With SAM, you can effortlessly segment objects of interest in real-time, making it a powerful tool for a wide range of applications.
+
+## 🚀 Features🚀 
+
+🌟 Real-time Interactive Segmentation: SAM provides seamless and interactive segmentation, enabling users to prompt the model in real-time.   
+🌟 Flexible Prompt Encoding: SAM supports both sparse prompts (points, boxes, text) and dense prompts (masks), offering versatility in guiding the segmentation process.   
+🌟 Efficient Model Design: SAM's design prioritizes efficiency, allowing the prompt encoder and mask decoder to run on CPU, achieving impressive runtime performance.   
+🌟 Ambiguity Resolution: SAM addresses ambiguity by predicting multiple output masks for a single prompt and ranking them based on confidence scores.   
+🌟 Easy Integration: SAM can be easily integrated into existing computer vision pipelines, making it convenient to incorporate into your projects.   
+
 <img width="702" alt="masks1" src="https://github.com/codingcog23/Segment-anything-using-Segment-Anything-Model/assets/134972060/f8835d11-a708-45da-8a54-bd4f8a924b87">
 <img width="702" alt="masks2" src="https://github.com/codingcog23/Segment-anything-using-Segment-Anything-Model/assets/134972060/d2d2f17f-4ad7-4a6c-b16c-a4ab6a63cd44">
 
@@ -65,7 +77,12 @@ SAM's lightweight mask decoder can be exported to ONNX format so that it can be 
 python scripts/export_onnx_model.py --checkpoint <path/to/checkpoint> --model-type <model_type> --output <path/to/output>
 
 ```
-## Results
+## 🔥🚀  Results 🔥🚀  
+
+![download (3)](https://github.com/KrishArul26/Forcated-the-BitCoin-price-using-Deep-Learning/assets/74568334/5badccbe-4576-4b37-ad89-600c0e78ca9b)
+
+![download (2)](https://github.com/KrishArul26/Forcated-the-BitCoin-price-using-Deep-Learning/assets/74568334/ae2fe07d-f9c2-4909-82c8-454071ec99b5)
+
 ![Mask](https://github.com/codingcog23/Segment-anything-using-Segment-Anything-Model/assets/134972060/99251a4d-9d87-4037-8dc1-d6ec569b2d01)
 
 ![segment-anything-model-paper](https://github.com/codingcog23/Segment-anything-using-Segment-Anything-Model/assets/134972060/aa243627-e27e-47c9-88bb-9662c75a7a21)
